@@ -2,3 +2,5 @@ Rencana ke depan
 1. belajar git dulu
 2. belajar rest api
 3. belajar laravel
+4. belajar CI
+5. membuat toko online
