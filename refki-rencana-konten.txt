@@ -3,6 +3,8 @@ rencana kontent chanel saya
 - javascript
   * ES6
   * Framework Javascript
-- react native
+    ^ Angular
+    ^ React
 - php framework
+  ^ laravel
 - react
