@@ -1,5 +1,7 @@
 rencana kontent chanel saya
 
-- jquery
+- javascript
+  * ES6
+  * Framework Javascript
 - php framework
 - react
