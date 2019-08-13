@@ -1,0 +1,5 @@
+rencana kontent chanel saya
+
+- jquery
+- php framework
+- react
