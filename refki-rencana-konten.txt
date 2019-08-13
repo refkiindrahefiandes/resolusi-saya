@@ -4,6 +4,7 @@ rencana kontent chanel saya
   * ES6
   * Framework Javascript
    ^ Vue
+   ^ Angular
 - react native
 - php framework
   ^ Laravel
