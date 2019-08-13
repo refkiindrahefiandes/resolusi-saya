@@ -1,0 +1,7 @@
+rencana kontent chanel saya
+
+- javascript
+  * ES6
+  * Framework Javascript
+- php framework
+- react
